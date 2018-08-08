@@ -1,0 +1,34 @@
+/* ********************* */
+/* Utils */
+/* ********************* */
+
+.flex-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* exo2 */
+/* #un {
+    border: solid 1px black;
+    height: 100px;
+    width: 400px;
+}
+
+#deux {
+    border: solid 1px black;
+    height: 100px;
+    width: 400px;
+}
+#trois {
+    border: solid 1px black;
+    height: 100px;
+    width: 400px;
+} */
+
+#discret {
+    height: 100px;
+    width: 500px;
+    color: black;
+    /* background-color: aqua; */
+}

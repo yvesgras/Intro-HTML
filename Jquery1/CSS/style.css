@@ -1,0 +1,23 @@
+/* .carre{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 100px;
+    height: 100px;
+    background: cadetblue;
+}
+.rectangle{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 200px;
+    height: 100px;
+    background: cadetblue;
+} */
+
+p{
+    background-color: aquamarine;
+}
+p:last-child{
+    background-color: chartreuse;
+}
